@@ -2,7 +2,6 @@ import speech_recognition as sr
 from translate import Translator
 
 arquivo="audio.wav"
-
 #Funcao responsavel por ouvir e reconhecer a fala
 def ouvir_microfone():
      #Habilita o microfone para ouvir o usuario
